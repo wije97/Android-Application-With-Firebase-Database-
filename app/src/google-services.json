@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891591661686",
+    "firebase_url": "https://park4u-27714.firebaseio.com",
+    "project_id": "park4u-27714",
+    "storage_bucket": "park4u-27714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891591661686:android:6e8d72437fa6f1421de757",
+        "android_client_info": {
+          "package_name": "com.example.park4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891591661686-cucug2gmv4r38t2j5dvkshvv259g46id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5GJNcbB5dWO88Iwey80WA5KVYeVzml3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891591661686-cucug2gmv4r38t2j5dvkshvv259g46id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
